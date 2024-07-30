@@ -1,0 +1,11 @@
+/* Entire Page */
+section {
+    padding: 60px 0;
+  }
+
+/* Image style to make rounded corners */
+.rounded-rectangle {
+    border-radius: 15px; /* Adjust this value to change the roundness */
+    overflow: hidden; /* This will clip the corners */
+}
+
