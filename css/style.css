@@ -10,8 +10,7 @@ section {
 }
 
 .card {
-  background-color: #008080; /* Teal */
-  color: #ebeb5d;            /* Cream */
+  background-color: #d0f4fc; /* Teal */
 }
 
 .card-title, .card-subtitle, .card-text {
@@ -20,4 +19,8 @@ section {
 
 .card-subtitle {
   color: #fafafa;            /* Slightly lighter shade of cream for subtitles, if needed */
+}
+
+.card-title {
+  color: #00008B; 
 }
