@@ -9,3 +9,15 @@ section {
     overflow: hidden; /* This will clip the corners */
 }
 
+.card {
+  background-color: #008080; /* Teal */
+  color: #ebeb5d;            /* Cream */
+}
+
+.card-title, .card-subtitle, .card-text {
+  color: inherit;            /* Ensures all text inside the card inherits the same cream color */
+}
+
+.card-subtitle {
+  color: #fafafa;            /* Slightly lighter shade of cream for subtitles, if needed */
+}
