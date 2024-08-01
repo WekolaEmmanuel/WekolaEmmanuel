@@ -1,4 +1,7 @@
 /* Entire Page */
+body{
+  font-family: "Nunito", sans-serif;
+}
 section {
     padding: 60px 0;
   }
@@ -23,4 +26,15 @@ section {
 
 .card-title {
   color: #00008B; 
+}
+.background {
+  background-color: d0f4fc; /* Light gray background for subtle contrast */
+}
+/* icons */
+.custom-icon {
+  font-size: 100px; /* Change the size as needed */
+  color: #00008B;    /* Change the color as needed */
+}
+.header-color {
+  color: #00008B;
 }
