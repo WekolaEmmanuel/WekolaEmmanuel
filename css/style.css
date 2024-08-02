@@ -42,3 +42,11 @@ section {
 .custom-icon2{
   color:#00008B ;
 }
+footer {
+  position: static;
+  background-color: #d8e8fc;
+  color: #fff;
+  padding: 3px;
+  width: 100%;
+  bottom: 0;
+}
