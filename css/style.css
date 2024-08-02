@@ -21,7 +21,7 @@ section {
 }
 
 .card-subtitle {
-  color: #fafafa;            /* Slightly lighter shade of cream for subtitles, if needed */
+  color: #fafafa;            
 }
 
 .card-title {
@@ -37,4 +37,8 @@ section {
 }
 .header-color {
   color: #00008B;
+}
+/* stars */
+.custom-icon2{
+  color:#00008B ;
 }
